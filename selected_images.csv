@@ -1,0 +1,41 @@
+id,prompt,level,image_number,type,image_url
+f86db9fe-24a5-401a-a63d-946e20bea466.png,Art by Odilon Redon,2,1,regular,/data/selected_images/f86db9fe-24a5-401a-a63d-946e20bea466.png
+64f46c33-a4cb-4e1b-92b3-36a49c19c278.png,Art by Claude Monet,2,2,regular,/data/selected_images/64f46c33-a4cb-4e1b-92b3-36a49c19c278.png
+9d5d6452-3198-46bc-b6a7-66980490812a.png,Steve Urkel Danganronpa character,2,3,regular,/data/selected_images/9d5d6452-3198-46bc-b6a7-66980490812a.png
+c455fe03-0d68-4237-b7f8-dcf532a35643.png,"toads on broadway, watercolor",1,1,regular,/data/selected_images/c455fe03-0d68-4237-b7f8-dcf532a35643.png
+5b3693f3-35bb-430a-9a42-308dd2e0bc06.png,mountain made of sushi rolls,1,2,regular,/data/selected_images/5b3693f3-35bb-430a-9a42-308dd2e0bc06.png
+6e057018-5b90-4f0b-8a23-8de3afe7c9b1.png,Synthwave art by M.C. Escher,2,4,regular,/data/selected_images/6e057018-5b90-4f0b-8a23-8de3afe7c9b1.png
+31bb3beb-f9ed-43fc-ac72-dde01c2327b1.png,Synthwave art by Ivan Aivazovsky,2,5,regular,/data/selected_images/31bb3beb-f9ed-43fc-ac72-dde01c2327b1.png
+8d918758-47af-4e87-9535-709f49587c4d.png,"the future of ai, very realistic",1,3,regular,/data/selected_images/8d918758-47af-4e87-9535-709f49587c4d.png
+e4efa510-cce0-4d00-a6ef-2ca1c0feb582.png,A portrait painted by Pablo Picasso,2,6,regular,/data/selected_images/e4efa510-cce0-4d00-a6ef-2ca1c0feb582.png
+be456a43-e111-4d14-a689-f0ceb6c4b027.png,trail cam footage of SpongeBob squarepants,1,4,regular,/data/selected_images/be456a43-e111-4d14-a689-f0ceb6c4b027.png
+fd64b05c-8ff9-4708-b537-3f36b9707595.png,"tesla cybertruck on mars, photorealistic, highly detailed",1,5,regular,/data/selected_images/fd64b05c-8ff9-4708-b537-3f36b9707595.png
+db6351fa-1358-47b5-910a-b46ba288b888.png,cheese fries served at a 5 star restaurant,1,6,regular,/data/selected_images/db6351fa-1358-47b5-910a-b46ba288b888.png
+57d6ebcc-9a11-4134-8302-66cb9430b7ad.png,A cyberpunk pop art portrait by Pablo Picasso,2,7,regular,/data/selected_images/57d6ebcc-9a11-4134-8302-66cb9430b7ad.png
+d682f110-21b7-4cd4-9d78-057ff3b75afa.png,Donald trump ps2 game cover art ea sports,1,7,regular,/data/selected_images/d682f110-21b7-4cd4-9d78-057ff3b75afa.png
+716e83fc-81ce-4ced-abc5-66e4edcb0373.png,A portrait of Steve Urkel painted by Gustav Klimt,2,8,regular,/data/selected_images/716e83fc-81ce-4ced-abc5-66e4edcb0373.png
+f2361d16-6d8a-44a0-9f8a-846d99e058be.png,A portrait of Kermit the Frog painted by Pablo Picasso,4,1,regular,/data/selected_images/f2361d16-6d8a-44a0-9f8a-846d99e058be.png
+993dfac7-3b52-4791-ba11-16789595ab79.png,A portrait of Kermit the Frog painted by Gustav Klimt,4,2,regular,/data/selected_images/993dfac7-3b52-4791-ba11-16789595ab79.png
+b15374a0-6b08-4282-a9c1-fd1ef5374f6a.png,A portrait of Kermit the Frog painted by Alphonse Mucha,4,3,regular,/data/selected_images/b15374a0-6b08-4282-a9c1-fd1ef5374f6a.png
+e89ec486-a569-4948-9608-eee7f45682fd.png,"Earth as a ringed planet, Hubble image, highly detailed, 8k",1,8,regular,/data/selected_images/e89ec486-a569-4948-9608-eee7f45682fd.png
+04b8d947-4716-4dd2-906f-ff1d7381aa7b.png,"an impressionist painting of harambe in heaven, trending on artstation",3,1,regular,/data/selected_images/04b8d947-4716-4dd2-906f-ff1d7381aa7b.png
+ba92bb24-b49e-4948-b7a1-39c1338e88fb.png,the taj mahal of india made literally out of cheese,1,9,regular,/data/selected_images/ba92bb24-b49e-4948-b7a1-39c1338e88fb.png
+ba92bb24-b49e-4948-b7a1-39c1338e88fb.png,the taj mahal of india made literally out of cheese,4,4,regular,/data/selected_images/ba92bb24-b49e-4948-b7a1-39c1338e88fb.png
+04b8d947-4716-4dd2-906f-ff1d7381aa7b.png,"an impressionist painting of harambe in heaven, trending on artstation",1,10,daily,/data/selected_images/04b8d947-4716-4dd2-906f-ff1d7381aa7b.png
+993dfac7-3b52-4791-ba11-16789595ab79.png,A portrait of Kermit the Frog painted by Gustav Klimt,2,9,regular,/data/selected_images/993dfac7-3b52-4791-ba11-16789595ab79.png
+f2361d16-6d8a-44a0-9f8a-846d99e058be.png,A portrait of Kermit the Frog painted by Pablo Picasso,2,10,daily,/data/selected_images/f2361d16-6d8a-44a0-9f8a-846d99e058be.png
+e89ec486-a569-4948-9608-eee7f45682fd.png,"Earth as a ringed planet, Hubble image, highly detailed, 8k",4,5,regular,/data/selected_images/e89ec486-a569-4948-9608-eee7f45682fd.png
+c5c9ca2b-615b-4e50-9e39-6ed491998424.png,"harambe in heaven, trending on artstation, high detail, vivid colours, 8k",3,2,regular,/data/selected_images/c5c9ca2b-615b-4e50-9e39-6ed491998424.png
+f3f2dc33-6670-43e8-9391-410115387534.png,A painting of a deep sea ctenophore by Vincent van Gogh,4,6,regular,/data/selected_images/f3f2dc33-6670-43e8-9391-410115387534.png
+4fe379f9-12a9-427c-8984-5dda48889504.png,"Donald trump talking to solid snake, metal gear solid ps2 game screenshot",3,3,regular,/data/selected_images/4fe379f9-12a9-427c-8984-5dda48889504.png
+2a4631b5-e8ec-47a1-ae8f-727bbd539b26.png,"astronaut takes a wide lense selfie inside a black hole, high resolution 8k quality",4,7,regular,/data/selected_images/2a4631b5-e8ec-47a1-ae8f-727bbd539b26.png
+6aa26842-1089-416c-9699-0632f53cfbe4.png,"an impressionist painting of harambe in heaven, clouds, golden hour, halo, trending on artstation",3,4,regular,/data/selected_images/6aa26842-1089-416c-9699-0632f53cfbe4.png
+543154f9-8cad-4ce3-abe7-b8bf385c681b.png,"a smiling border collie dog with a pink star on its collar, book cover",3,5,regular,/data/selected_images/543154f9-8cad-4ce3-abe7-b8bf385c681b.png
+d73a686c-a565-4a20-bf92-fd1ac806a884.png,"smiling silverback gorilla in a land made of clouds by van gogh, golden hour",3,6,regular,/data/selected_images/d73a686c-a565-4a20-bf92-fd1ac806a884.png
+1d5087a5-099f-4e20-9def-9b5af4134904.png,"smiling silverback gorilla in a land made of clouds by Leonardo da Vinci, golden hour",3,7,regular,/data/selected_images/1d5087a5-099f-4e20-9def-9b5af4134904.png
+02480763-ea02-4912-bb23-e38cb1c405ba.png,Paleoart showing the creatures of the Burgess Shale living in a Cambrian Period coral reef,4,8,regular,/data/selected_images/02480763-ea02-4912-bb23-e38cb1c405ba.png
+1dbc3e22-4703-40a7-835f-b6ad773ee0a6.png,A painting by Edward Hopper depicting some goths hanging out in a Hot Topic store at the mall,4,9,regular,/data/selected_images/1dbc3e22-4703-40a7-835f-b6ad773ee0a6.png
+82ee6f17-aaec-401a-ae09-d14bd714e756.png,"a smiling border collie dog with a pink star on its collar, fantasy book cover, digital painting, highly detailed render",3,8,regular,/data/selected_images/82ee6f17-aaec-401a-ae09-d14bd714e756.png
+5fb6c206-50d2-4928-9978-095c62c2e83c.png,"a portrait of a being captured in deep space, clarity of consciousness, close view photograph, award winning, 1080p, high resolution",4,10,daily,/data/selected_images/5fb6c206-50d2-4928-9978-095c62c2e83c.png
+0adf7b4f-5e7b-4a80-965a-0cdfb215b476.png,"amazing concept art oil painting of a smiling silverback gorilla in a land made of fluffy clouds, Leonardo da Vinci",3,9,regular,/data/selected_images/0adf7b4f-5e7b-4a80-965a-0cdfb215b476.png
+d4392034-0672-4ed7-88cf-9d8f391c2461.png,"a smiling border collie dog with a pink star on its collar, fantasy book cover, digital painting, highly detailed render",3,10,daily,/data/selected_images/d4392034-0672-4ed7-88cf-9d8f391c2461.png

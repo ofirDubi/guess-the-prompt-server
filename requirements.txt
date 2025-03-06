@@ -1,0 +1,6 @@
+# requirements.txt
+Flask==2.3.2
+Flask-SQLAlchemy==3.0.5
+pandas==2.0.3
+fuzzyset==0.1.2
+waitress==2.1.2
