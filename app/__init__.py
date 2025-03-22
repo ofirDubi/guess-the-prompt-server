@@ -36,7 +36,7 @@ def create_app():
     
 
     # CORS(app, resources={r"/*": {"origins": ["http://localhost:5000", "http://guesstheprompt.site", "https://guesstheprompt.site"]}})
-    CORS(app, resources={r"/*": {"origins": "http://localhost:8080"}})
+    CORS(app, resources={r"/*": {"origins": ["http://localhost:3000", "http://guesstheprompt.online", "https://guesstheprompt.online"]}})
     # limiter = Limiter(get_remote_address, app=app, default_limits=["100 per minute"])
     if app.config['DEBUG']:
         print("[+] Running Debug Mode!")    
