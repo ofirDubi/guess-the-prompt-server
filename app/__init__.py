@@ -10,7 +10,9 @@ import os
 from flask_migrate import Migrate  # Import Flask-Migrate
 import logging
 
+# it is important to initialize db before import, because it relies on it.
 db = SQLAlchemy()
+from .models import User, LeaderboardCasual, LeaderboardDaily, LeaderboardProgress
 
 # Global DataFrame for images
 df_images = None
@@ -25,8 +27,13 @@ def create_app():
     API_KEY = "aaas9d98heljah2uiohad-jrggkisnm91"
 
     db.init_app(app)
-    # Initialize Flask-Migrate
-    migrate = Migrate(app, db)
+    # # Initialize Flask-Migrate
+    # migrate = Migrate(app, db)
+    # If db does not exist, initialize it 
+    if not os.path.exists('guess_the_prompt.db'):
+        with app.app_context():
+            db.create_all()
+    
 
     # CORS(app, resources={r"/*": {"origins": ["http://localhost:5000", "http://guesstheprompt.site", "https://guesstheprompt.site"]}})
     CORS(app, resources={r"/*": {"origins": "http://localhost:8080"}})

@@ -1,7 +1,7 @@
 # app/auth/routes.py
 from flask import Blueprint, jsonify, request
 from .. import db
-from ..models import User
+from ..models import User, LeaderboardCasual, LeaderboardDaily, LeaderboardProgress
 import uuid
 
 auth_bp = Blueprint('auth', __name__)
@@ -37,10 +37,17 @@ def register():
             "total": 10,
             "guesses": 0,
             "unlocked": True
-        }]
+        },
+        {"tmp" : 1} # this will be used to tell the db it needs an update because sqlalchemy is shit
+        ]
     )
     
     db.session.add(new_user)
+    # add instance of user to the leaderboard tables
+    db.session.add(LeaderboardCasual(user_id=token))
+    db.session.add(LeaderboardDaily(user_id=token))
+    db.session.add(LeaderboardProgress(user_id=token))
+
     db.session.commit()
 
     return jsonify({
