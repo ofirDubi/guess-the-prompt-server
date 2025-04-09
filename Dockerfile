@@ -14,4 +14,4 @@ EXPOSE 4455
 
 ENV PORT=4455
 
-CMD ["python", "main.py"]
+CMD ["python", "run.py"]
