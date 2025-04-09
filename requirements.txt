@@ -1,6 +1,11 @@
 # requirements.txt
-Flask==2.3.2
+Flask==3.0.3
+Flask-Cors==5.0.0
 Flask-SQLAlchemy==3.0.5
+Flask-Limiter==3.8.0
+Flask-Migrate==4.1.0
 pandas==2.0.3
 fuzzyset==0.1.2
 waitress==2.1.2
+
+
