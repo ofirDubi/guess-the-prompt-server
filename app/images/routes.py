@@ -12,10 +12,11 @@ images_bp = Blueprint('images', __name__)
 def get_random_image():
     image = df_images.sample().iloc[0]
     # image = df_images.iloc[3]
-    
+    print("image img url:", image['image_url'])
+    print("image url root:", request.url_root)
     return jsonify({
         "id": image['id'],
-        "imageUrl": request.url_root  + image['image_url'],
+        "imageUrl": image['image_url'],
         "promptLength": len(image['prompt'].split())
     })
 
@@ -43,7 +44,7 @@ def get_daily_image():
 
     return jsonify({
         "id": daily_image['id'],
-        "imageUrl": request.url_root + daily_image['image_url'],
+        "imageUrl":  daily_image['image_url'],
         "promptLength": len(daily_image['prompt'].split()),
         "hasSubmittedToday": has_submitted
     })
@@ -85,7 +86,7 @@ def get_progress_image(level):
 
     return jsonify({
         "id": image['id'],
-        "imageUrl": request.url_root + image['image_url'],
+        "imageUrl": image['image_url'],
         "promptLength": len(image['prompt'].split()),
         "level": level,
         "imageNumber": image_number,
