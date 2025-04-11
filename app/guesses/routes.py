@@ -85,7 +85,7 @@ def submit_guess():
     # @TODO: implement guest user in client 
     user_token = request.headers.get('Authorization', '').split(' ')[-1]
     print("user token is - ", user_token)
-    if user_token != 'guest' and userID != 'guest':
+    if user_token not in ['guest', ''] and userID not in ['guest', None]:
         user = User.query.get(user_token)
         if mode == 'daily':
             if user.daily_score == None or user.daily_score < score:
