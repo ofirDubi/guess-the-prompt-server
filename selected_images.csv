@@ -1,41 +1,163 @@
 id,prompt,level,image_number,type,image_url
-f86db9fe-24a5-401a-a63d-946e20bea466.png,Art by Odilon Redon,2,1,regular,/data/selected_images/f86db9fe-24a5-401a-a63d-946e20bea466.png
-64f46c33-a4cb-4e1b-92b3-36a49c19c278.png,Art by Claude Monet,2,2,regular,/data/selected_images/64f46c33-a4cb-4e1b-92b3-36a49c19c278.png
-9d5d6452-3198-46bc-b6a7-66980490812a.png,Steve Urkel Danganronpa character,2,3,regular,/data/selected_images/9d5d6452-3198-46bc-b6a7-66980490812a.png
-c455fe03-0d68-4237-b7f8-dcf532a35643.png,"toads on broadway, watercolor",1,1,regular,/data/selected_images/c455fe03-0d68-4237-b7f8-dcf532a35643.png
-5b3693f3-35bb-430a-9a42-308dd2e0bc06.png,mountain made of sushi rolls,1,2,regular,/data/selected_images/5b3693f3-35bb-430a-9a42-308dd2e0bc06.png
-6e057018-5b90-4f0b-8a23-8de3afe7c9b1.png,Synthwave art by M.C. Escher,2,4,regular,/data/selected_images/6e057018-5b90-4f0b-8a23-8de3afe7c9b1.png
-31bb3beb-f9ed-43fc-ac72-dde01c2327b1.png,Synthwave art by Ivan Aivazovsky,2,5,regular,/data/selected_images/31bb3beb-f9ed-43fc-ac72-dde01c2327b1.png
-8d918758-47af-4e87-9535-709f49587c4d.png,"the future of ai, very realistic",1,3,regular,/data/selected_images/8d918758-47af-4e87-9535-709f49587c4d.png
-e4efa510-cce0-4d00-a6ef-2ca1c0feb582.png,A portrait painted by Pablo Picasso,2,6,regular,/data/selected_images/e4efa510-cce0-4d00-a6ef-2ca1c0feb582.png
-be456a43-e111-4d14-a689-f0ceb6c4b027.png,trail cam footage of SpongeBob squarepants,1,4,regular,/data/selected_images/be456a43-e111-4d14-a689-f0ceb6c4b027.png
-fd64b05c-8ff9-4708-b537-3f36b9707595.png,"tesla cybertruck on mars, photorealistic, highly detailed",1,5,regular,/data/selected_images/fd64b05c-8ff9-4708-b537-3f36b9707595.png
-db6351fa-1358-47b5-910a-b46ba288b888.png,cheese fries served at a 5 star restaurant,1,6,regular,/data/selected_images/db6351fa-1358-47b5-910a-b46ba288b888.png
-57d6ebcc-9a11-4134-8302-66cb9430b7ad.png,A cyberpunk pop art portrait by Pablo Picasso,2,7,regular,/data/selected_images/57d6ebcc-9a11-4134-8302-66cb9430b7ad.png
-d682f110-21b7-4cd4-9d78-057ff3b75afa.png,Donald trump ps2 game cover art ea sports,1,7,regular,/data/selected_images/d682f110-21b7-4cd4-9d78-057ff3b75afa.png
-716e83fc-81ce-4ced-abc5-66e4edcb0373.png,A portrait of Steve Urkel painted by Gustav Klimt,2,8,regular,/data/selected_images/716e83fc-81ce-4ced-abc5-66e4edcb0373.png
-f2361d16-6d8a-44a0-9f8a-846d99e058be.png,A portrait of Kermit the Frog painted by Pablo Picasso,4,1,regular,/data/selected_images/f2361d16-6d8a-44a0-9f8a-846d99e058be.png
-993dfac7-3b52-4791-ba11-16789595ab79.png,A portrait of Kermit the Frog painted by Gustav Klimt,4,2,regular,/data/selected_images/993dfac7-3b52-4791-ba11-16789595ab79.png
-b15374a0-6b08-4282-a9c1-fd1ef5374f6a.png,A portrait of Kermit the Frog painted by Alphonse Mucha,4,3,regular,/data/selected_images/b15374a0-6b08-4282-a9c1-fd1ef5374f6a.png
-e89ec486-a569-4948-9608-eee7f45682fd.png,"Earth as a ringed planet, Hubble image, highly detailed, 8k",1,8,regular,/data/selected_images/e89ec486-a569-4948-9608-eee7f45682fd.png
-04b8d947-4716-4dd2-906f-ff1d7381aa7b.png,"an impressionist painting of harambe in heaven, trending on artstation",3,1,regular,/data/selected_images/04b8d947-4716-4dd2-906f-ff1d7381aa7b.png
-ba92bb24-b49e-4948-b7a1-39c1338e88fb.png,the taj mahal of india made literally out of cheese,1,9,regular,/data/selected_images/ba92bb24-b49e-4948-b7a1-39c1338e88fb.png
-ba92bb24-b49e-4948-b7a1-39c1338e88fb.png,the taj mahal of india made literally out of cheese,4,4,regular,/data/selected_images/ba92bb24-b49e-4948-b7a1-39c1338e88fb.png
-04b8d947-4716-4dd2-906f-ff1d7381aa7b.png,"an impressionist painting of harambe in heaven, trending on artstation",1,10,daily,/data/selected_images/04b8d947-4716-4dd2-906f-ff1d7381aa7b.png
-993dfac7-3b52-4791-ba11-16789595ab79.png,A portrait of Kermit the Frog painted by Gustav Klimt,2,9,regular,/data/selected_images/993dfac7-3b52-4791-ba11-16789595ab79.png
-f2361d16-6d8a-44a0-9f8a-846d99e058be.png,A portrait of Kermit the Frog painted by Pablo Picasso,2,10,daily,/data/selected_images/f2361d16-6d8a-44a0-9f8a-846d99e058be.png
-e89ec486-a569-4948-9608-eee7f45682fd.png,"Earth as a ringed planet, Hubble image, highly detailed, 8k",4,5,regular,/data/selected_images/e89ec486-a569-4948-9608-eee7f45682fd.png
-c5c9ca2b-615b-4e50-9e39-6ed491998424.png,"harambe in heaven, trending on artstation, high detail, vivid colours, 8k",3,2,regular,/data/selected_images/c5c9ca2b-615b-4e50-9e39-6ed491998424.png
-f3f2dc33-6670-43e8-9391-410115387534.png,A painting of a deep sea ctenophore by Vincent van Gogh,4,6,regular,/data/selected_images/f3f2dc33-6670-43e8-9391-410115387534.png
-4fe379f9-12a9-427c-8984-5dda48889504.png,"Donald trump talking to solid snake, metal gear solid ps2 game screenshot",3,3,regular,/data/selected_images/4fe379f9-12a9-427c-8984-5dda48889504.png
-2a4631b5-e8ec-47a1-ae8f-727bbd539b26.png,"astronaut takes a wide lense selfie inside a black hole, high resolution 8k quality",4,7,regular,/data/selected_images/2a4631b5-e8ec-47a1-ae8f-727bbd539b26.png
-6aa26842-1089-416c-9699-0632f53cfbe4.png,"an impressionist painting of harambe in heaven, clouds, golden hour, halo, trending on artstation",3,4,regular,/data/selected_images/6aa26842-1089-416c-9699-0632f53cfbe4.png
-543154f9-8cad-4ce3-abe7-b8bf385c681b.png,"a smiling border collie dog with a pink star on its collar, book cover",3,5,regular,/data/selected_images/543154f9-8cad-4ce3-abe7-b8bf385c681b.png
-d73a686c-a565-4a20-bf92-fd1ac806a884.png,"smiling silverback gorilla in a land made of clouds by van gogh, golden hour",3,6,regular,/data/selected_images/d73a686c-a565-4a20-bf92-fd1ac806a884.png
-1d5087a5-099f-4e20-9def-9b5af4134904.png,"smiling silverback gorilla in a land made of clouds by Leonardo da Vinci, golden hour",3,7,regular,/data/selected_images/1d5087a5-099f-4e20-9def-9b5af4134904.png
-02480763-ea02-4912-bb23-e38cb1c405ba.png,Paleoart showing the creatures of the Burgess Shale living in a Cambrian Period coral reef,4,8,regular,/data/selected_images/02480763-ea02-4912-bb23-e38cb1c405ba.png
-1dbc3e22-4703-40a7-835f-b6ad773ee0a6.png,A painting by Edward Hopper depicting some goths hanging out in a Hot Topic store at the mall,4,9,regular,/data/selected_images/1dbc3e22-4703-40a7-835f-b6ad773ee0a6.png
-82ee6f17-aaec-401a-ae09-d14bd714e756.png,"a smiling border collie dog with a pink star on its collar, fantasy book cover, digital painting, highly detailed render",3,8,regular,/data/selected_images/82ee6f17-aaec-401a-ae09-d14bd714e756.png
-5fb6c206-50d2-4928-9978-095c62c2e83c.png,"a portrait of a being captured in deep space, clarity of consciousness, close view photograph, award winning, 1080p, high resolution",4,10,daily,/data/selected_images/5fb6c206-50d2-4928-9978-095c62c2e83c.png
-0adf7b4f-5e7b-4a80-965a-0cdfb215b476.png,"amazing concept art oil painting of a smiling silverback gorilla in a land made of fluffy clouds, Leonardo da Vinci",3,9,regular,/data/selected_images/0adf7b4f-5e7b-4a80-965a-0cdfb215b476.png
-d4392034-0672-4ed7-88cf-9d8f391c2461.png,"a smiling border collie dog with a pink star on its collar, fantasy book cover, digital painting, highly detailed render",3,10,daily,/data/selected_images/d4392034-0672-4ed7-88cf-9d8f391c2461.png
+81ed4e17-e825-478d-99d4-fa487df62e2b.png,Blue cat on skateboard,1,1,regular,/data/selected_images/81ed4e17-e825-478d-99d4-fa487df62e2b.png
+0127143d-11c6-4504-8a9e-7e25ff52738d.png,Gothic cathedral in Prague,4,1,regular,/data/selected_images/0127143d-11c6-4504-8a9e-7e25ff52738d.png
+8b19a2d4-c68e-48e5-b7db-0ee9b5ada2d8.png,Mysterious mask at Kyoto,4,2,regular,/data/selected_images/8b19a2d4-c68e-48e5-b7db-0ee9b5ada2d8.png
+704afafe-0488-499f-9298-6c3b783715ba.png,Curious dog smells coffee,4,3,regular,/data/selected_images/704afafe-0488-499f-9298-6c3b783715ba.png
+b4865a02-5176-44aa-8145-1cca1d258b72.png,Singing parrot by diner,4,4,regular,/data/selected_images/b4865a02-5176-44aa-8145-1cca1d258b72.png
+1f58e189-d59e-4efa-bddc-9c7ce301b64e.png,Dancing elephant with cupcakes,4,5,regular,/data/selected_images/1f58e189-d59e-4efa-bddc-9c7ce301b64e.png
+d0538463-22cc-4c83-8641-5396cc7f10b3.png,Bouncing kangaroo loves tacos,4,6,regular,/data/selected_images/d0538463-22cc-4c83-8641-5396cc7f10b3.png
+2192c205-8ad5-41f8-839a-700e73190a55.png,Purple giraffe in raincoat,4,7,regular,/data/selected_images/2192c205-8ad5-41f8-839a-700e73190a55.png
+c838108d-05ea-4848-ad22-06ea4f70583f.png,Shy panda eats bamboo,4,8,regular,/data/selected_images/c838108d-05ea-4848-ad22-06ea4f70583f.png
+aa478668-dc56-40b3-a41b-8d912b506cd6.png,Happy fox chases berries,4,9,regular,/data/selected_images/aa478668-dc56-40b3-a41b-8d912b506cd6.png
+aa308cb7-c556-4147-a0c2-07e0b32cb96c.png,Brave rabbit rides skateboard,5,1,regular,/data/selected_images/aa308cb7-c556-4147-a0c2-07e0b32cb96c.png
+479f3caf-5390-4c27-a9bc-4499b185008c.png,Calm owl on pizza,5,2,regular,/data/selected_images/479f3caf-5390-4c27-a9bc-4499b185008c.png
+6680fa57-6424-492e-9306-99990d3d6798.png,Mystic whale near iceberg,5,3,regular,/data/selected_images/6680fa57-6424-492e-9306-99990d3d6798.png
+19cec8b3-f40d-421c-a25a-6622fb2f303d.png,Funky llama with donuts,5,4,regular,/data/selected_images/19cec8b3-f40d-421c-a25a-6622fb2f303d.png
+5bc084d3-6c23-43ae-aa07-c18a29d86618.png,Cheerful duck eats fries,5,5,regular,/data/selected_images/5bc084d3-6c23-43ae-aa07-c18a29d86618.png
+5c836f34-d478-4ba0-b89f-0581d2a1f229.png,Elegant swan at banquet,5,6,regular,/data/selected_images/5c836f34-d478-4ba0-b89f-0581d2a1f229.png
+25a74f6e-e522-46bd-8450-7c7d4dc049c3.png,Happy cow in meadow,5,7,regular,/data/selected_images/25a74f6e-e522-46bd-8450-7c7d4dc049c3.png
+97921e35-7663-423a-a1c2-7671f04fdfe3.png,Roaring lion with pasta,5,8,regular,/data/selected_images/97921e35-7663-423a-a1c2-7671f04fdfe3.png
+40878b20-f876-444f-8ceb-e037dd6ca472.png,Cozy bear eats honey,5,9,regular,/data/selected_images/40878b20-f876-444f-8ceb-e037dd6ca472.png
+92e9ba99-8de9-4733-a3c7-150cb74b407a.png,Playful monkey with noodles,5,10,daily,/data/selected_images/92e9ba99-8de9-4733-a3c7-150cb74b407a.png
+6a235fc0-9876-452a-b1fc-b84c5849f450.png,Bold zebra wears scarf,6,1,regular,/data/selected_images/6a235fc0-9876-452a-b1fc-b84c5849f450.png
+6085dbde-e4ea-4d04-adcb-3c7989c2e5e8.png,Gentle deer in forest,6,2,regular,/data/selected_images/6085dbde-e4ea-4d04-adcb-3c7989c2e5e8.png
+3c822dae-824c-4717-928a-b63536cfab1c.png,Swift cheetah on racetrack,6,3,regular,/data/selected_images/3c822dae-824c-4717-928a-b63536cfab1c.png
+a147de5b-660a-4b27-b350-3bdc30dc2217.png,Tiny hummingbird sips nectar,6,4,regular,/data/selected_images/a147de5b-660a-4b27-b350-3bdc30dc2217.png
+fa90172c-1fdb-4454-8121-9ae4b35cc8b0.png,Brisk fox eats salad,6,5,regular,/data/selected_images/fa90172c-1fdb-4454-8121-9ae4b35cc8b0.png
+17f10e3e-15d2-4034-b9e8-2337aeaa9440.png,Sly raccoon with berries,6,6,regular,/data/selected_images/17f10e3e-15d2-4034-b9e8-2337aeaa9440.png
+29ae0bce-958d-4dba-9bad-e86c3c9e884f.png,Quiet library in Oxford,3,1,regular,/data/selected_images/29ae0bce-958d-4dba-9bad-e86c3c9e884f.png
+81c6f889-5b37-4b81-81d9-d3ee9a97da23.png,Desert sunset over Sahara,3,2,regular,/data/selected_images/81c6f889-5b37-4b81-81d9-d3ee9a97da23.png
+2e1722c9-80cf-4a4e-b992-985e8f001daf.png,Proud lion in sunglasses,4,10,daily,/data/selected_images/2e1722c9-80cf-4a4e-b992-985e8f001daf.png
+1bb70b23-9fed-445d-83d9-e78569bb3514.png,Snowy mountaintop in Aspen,3,3,regular,/data/selected_images/1bb70b23-9fed-445d-83d9-e78569bb3514.png
+c6d91f84-dbce-4854-bc33-f1c1cbda2d5d.png,Golden retriever in raincoat,1,2,regular,/data/selected_images/c6d91f84-dbce-4854-bc33-f1c1cbda2d5d.png
+6c34f184-d8c1-43d8-9d9f-8b82d3eafcd2.png,Tiny dragon in teacup,1,3,regular,/data/selected_images/6c34f184-d8c1-43d8-9d9f-8b82d3eafcd2.png
+8cb889c9-324d-4988-80ca-944ea917392c.png,Mystic waterfall in forest,1,4,regular,/data/selected_images/8cb889c9-324d-4988-80ca-944ea917392c.png
+d0448946-eff6-40ff-9795-5baeb5cd8384.png,Retro robot at diner,1,5,regular,/data/selected_images/d0448946-eff6-40ff-9795-5baeb5cd8384.png
+635ee674-1cc4-4642-882f-a56cd52ffd86.png,Elvis portrait on canvas,1,6,regular,/data/selected_images/635ee674-1cc4-4642-882f-a56cd52ffd86.png
+c3734189-d337-4ed7-9d6d-df3da46c7678.png,Paris street at dawn,1,7,regular,/data/selected_images/c3734189-d337-4ed7-9d6d-df3da46c7678.png
+0a2e353e-1d9d-4833-a259-170af98f6a97.png,Neon lights in Tokyo,1,8,regular,/data/selected_images/0a2e353e-1d9d-4833-a259-170af98f6a97.png
+4b3b605a-db41-4321-a971-07585f844c60.png,Pasta sunset at Rome,1,9,regular,/data/selected_images/4b3b605a-db41-4321-a971-07585f844c60.png
+eb9fab06-92ed-49e4-b0ef-ab225f10c531.png,Blossoming garden at Chelsea,3,4,regular,/data/selected_images/eb9fab06-92ed-49e4-b0ef-ab225f10c531.png
+e8aac19d-7e6e-4b8e-a170-c3e9ba1c7609.png,Calm beach in Malibu,2,1,regular,/data/selected_images/e8aac19d-7e6e-4b8e-a170-c3e9ba1c7609.png
+90b38c8e-0c60-4ee7-ae46-cb4b9a9d204c.png,Moonlit Hollywood Boulevard stroll,2,2,regular,/data/selected_images/90b38c8e-0c60-4ee7-ae46-cb4b9a9d204c.png
+cf050d14-8653-4156-a2b6-ec2e79be67a7.png,Gleaming Eiffel Tower reflection,2,3,regular,/data/selected_images/cf050d14-8653-4156-a2b6-ec2e79be67a7.png
+acd0b9e6-de46-4368-ae09-5affa397bf57.png,Floating Venice gondola ride,2,4,regular,/data/selected_images/acd0b9e6-de46-4368-ae09-5affa397bf57.png
+fd1fac74-8105-4f66-90e5-8b8f3c841cc5.png,Dancing penguins on ice,1,10,daily,/data/selected_images/fd1fac74-8105-4f66-90e5-8b8f3c841cc5.png
+643b3770-d6ca-46f2-938e-6beb01b442a1.png,Stark skyline over Manhattan,2,5,regular,/data/selected_images/643b3770-d6ca-46f2-938e-6beb01b442a1.png
+de1727dc-0f31-4f45-b3ce-cd7aca24190d.png,Vibrant carnival in Rio,3,5,regular,/data/selected_images/de1727dc-0f31-4f45-b3ce-cd7aca24190d.png
+9cb2ce35-3ef4-4339-8e43-3f01bea58a2f.png,Elegant dance at Versailles,3,6,regular,/data/selected_images/9cb2ce35-3ef4-4339-8e43-3f01bea58a2f.png
+4abd9f97-2054-4b0c-bcae-6bc8e904cd5e.png,Minimalist portrait of Adele,3,7,regular,/data/selected_images/4abd9f97-2054-4b0c-bcae-6bc8e904cd5e.png
+e83922fa-c981-45a8-833d-aab7840614b6.png,Busy market in Marrakech,3,8,regular,/data/selected_images/e83922fa-c981-45a8-833d-aab7840614b6.png
+b82633af-4123-4eb7-bd30-e1b49b6192a3.png,Smiling actress on stage,3,9,regular,/data/selected_images/b82633af-4123-4eb7-bd30-e1b49b6192a3.png
+da50da4a-3adc-48c5-8163-33c7a466c546.png,Crisp morning in London,2,6,regular,/data/selected_images/da50da4a-3adc-48c5-8163-33c7a466c546.png
+5a6d534b-ad69-46bf-85e0-478be6a12df3.png,Bold mural on Brooklyn,2,7,regular,/data/selected_images/5a6d534b-ad69-46bf-85e0-478be6a12df3.png
+25ee7170-4d77-49be-8b49-e63dff865824.png,Grand castle in Edinburgh,3,10,daily,/data/selected_images/25ee7170-4d77-49be-8b49-e63dff865824.png
+2ecf4df3-70a2-42ec-9346-aa4e694005d2.png,Soccer game at Camp Nou,2,8,regular,/data/selected_images/2ecf4df3-70a2-42ec-9346-aa4e694005d2.png
+8a975844-e8ce-43ca-b4b2-4fd9a75ebd26.png,Jazz band in New Orleans,2,9,regular,/data/selected_images/8a975844-e8ce-43ca-b4b2-4fd9a75ebd26.png
+61d25170-e40a-419f-9b05-81c15907e0ce.png,Sunny picnic at Central Park,2,10,daily,/data/selected_images/61d25170-e40a-419f-9b05-81c15907e0ce.png
+385b1e2f-804e-42b9-9bd9-b9c7316a58b8.png,Spectacular fireworks light up Sydney Harbour,7,1,regular,/data/selected_images/385b1e2f-804e-42b9-9bd9-b9c7316a58b8.png
+0096bb12-570f-4153-850d-4e9450374ec8.png,Serene lake mirrors majestic Rocky Mountains,9,1,regular,/data/selected_images/0096bb12-570f-4153-850d-4e9450374ec8.png
+117cdd5f-0ec7-4b49-8cec-d828922b5614.png,Energizing concert at Wembley Stadium tonight,8,1,regular,/data/selected_images/117cdd5f-0ec7-4b49-8cec-d828922b5614.png
+f11f5b98-df2a-47cd-aa94-bf388ce92ee0.png,Luminous moon rises behind Mount Fuji,8,2,regular,/data/selected_images/f11f5b98-df2a-47cd-aa94-bf388ce92ee0.png
+ff22d4bf-76c2-4cc0-9eef-d9755ef43f13.png,Charming cottage nestled in English countryside,8,3,regular,/data/selected_images/ff22d4bf-76c2-4cc0-9eef-d9755ef43f13.png
+b6d3ecba-3b55-41ab-9d2e-76b14f0d2bdc.png,Epic space journey with Martian landscapes,8,4,regular,/data/selected_images/b6d3ecba-3b55-41ab-9d2e-76b14f0d2bdc.png
+3b3e4ba7-afd5-41ef-8cd1-6db5f10d63ab.png,Dynamic skyline over San Francisco bay,8,5,regular,/data/selected_images/3b3e4ba7-afd5-41ef-8cd1-6db5f10d63ab.png
+2190ef37-1406-422d-86f3-8f6efffd6228.png,Whirlwind adventure through London's misty alleys,8,6,regular,/data/selected_images/2190ef37-1406-422d-86f3-8f6efffd6228.png
+92fd911f-da4a-482f-a7b4-93e3dfdaf59d.png,Neon-lit street captures Tokyo's lively nightlife,8,7,regular,/data/selected_images/92fd911f-da4a-482f-a7b4-93e3dfdaf59d.png
+a1b58498-2f15-44e6-968b-cfbd291bfedd.png,Futuristic hovercar zooms through Los Angeles,7,2,regular,/data/selected_images/a1b58498-2f15-44e6-968b-cfbd291bfedd.png
+0deee75e-0cc7-491d-b8f8-3bbd16fa871c.png,Famous chef dazzles at Le Bernardin,9,2,regular,/data/selected_images/0deee75e-0cc7-491d-b8f8-3bbd16fa871c.png
+ed201d38-2988-4d63-ade6-11ea01689c12.png,Whimsical train journey through Swiss mountains,7,3,regular,/data/selected_images/ed201d38-2988-4d63-ade6-11ea01689c12.png
+e44427e2-9d94-4096-b9ae-87a0bac1a28b.png,Enchanted castle floats above the clouds,6,7,regular,/data/selected_images/e44427e2-9d94-4096-b9ae-87a0bac1a28b.png
+1173ec0e-f5a9-4409-9a2a-ae29c838ac73.png,Futuristic cityscape under a neon sky,6,8,regular,/data/selected_images/1173ec0e-f5a9-4409-9a2a-ae29c838ac73.png
+dc6d9cb4-c3e1-4729-ad7e-fdee615eac70.png,Vibrant underwater scene with dancing jellyfish,6,9,regular,/data/selected_images/dc6d9cb4-c3e1-4729-ad7e-fdee615eac70.png
+70ecb548-49d1-4dfb-8648-0bb4e8a1d51d.png,Ancient tree with glowing mysterious runes,7,4,regular,/data/selected_images/70ecb548-49d1-4dfb-8648-0bb4e8a1d51d.png
+c26cace3-f31f-4f61-b548-c824120a0ab8.png,Thrilling race at Monaco Grand Prix,7,5,regular,/data/selected_images/c26cace3-f31f-4f61-b548-c824120a0ab8.png
+5298f7b6-66e5-49e6-abc0-0f7e084ed265.png,Surreal cat playing chess in moonlight,6,10,daily,/data/selected_images/5298f7b6-66e5-49e6-abc0-0f7e084ed265.png
+f1f8eca0-7314-414d-a73c-1c13e1b83145.png,Mystical mermaid serenades under Venice moonlight,7,6,regular,/data/selected_images/f1f8eca0-7314-414d-a73c-1c13e1b83145.png
+b0e3d558-36fa-493e-a77a-93fe12d59ca8.png,Dreamy snapshot of Central Park autumn vibes,8,8,regular,/data/selected_images/b0e3d558-36fa-493e-a77a-93fe12d59ca8.png
+4141b669-58f2-4c02-a38d-715c9da7c0cc.png,Bustling market filled with vibrant Moroccan spices,8,9,regular,/data/selected_images/4141b669-58f2-4c02-a38d-715c9da7c0cc.png
+78557f77-c2b4-47b0-b37a-ffeda2249d9a.png,Wandering traveler explores ancient ruins in Athens,8,10,daily,/data/selected_images/78557f77-c2b4-47b0-b37a-ffeda2249d9a.png
+10d8ba77-d243-49ac-a255-c71ae273aad0.png,Electric guitar solo on a Paris street,7,7,regular,/data/selected_images/10d8ba77-d243-49ac-a255-c71ae273aad0.png
+a34d7eb4-96e3-4e42-a050-be3e72ff816b.png,Inspiring portrait of Oprah in a garden,7,8,regular,/data/selected_images/a34d7eb4-96e3-4e42-a050-be3e72ff816b.png
+e7843e2b-2d28-4c43-9dd1-d533e77645e1.png,Fabled street art brightens Berlin's urban walls,9,3,regular,/data/selected_images/e7843e2b-2d28-4c43-9dd1-d533e77645e1.png
+c6fe45e1-1fd3-440a-a768-37abfc4e216b.png,Graceful ballerina dances at the Bolshoi Theatre,7,9,regular,/data/selected_images/c6fe45e1-1fd3-440a-a768-37abfc4e216b.png
+bc5319a9-c9c1-468c-9855-387b9b28b967.png,Bold samurai faces towering New York skyline,7,10,daily,/data/selected_images/bc5319a9-c9c1-468c-9855-387b9b28b967.png
+c323b2d2-a613-4775-96a3-97ae5b9a9c86.png,Vivid brushstrokes reveal animals feasting in a dreamscape,10,1,regular,/data/selected_images/c323b2d2-a613-4775-96a3-97ae5b9a9c86.png
+1ca061f9-70e9-4378-afc8-3f5dbc6d2b97.png,Cinematic sunset over street food and lively ferrets,10,2,regular,/data/selected_images/1ca061f9-70e9-4378-afc8-3f5dbc6d2b97.png
+e883d461-9a06-4ef4-8f31-ed0e4187f05e.png,Lively bridge with modern sculptures and grazing hippos,11,1,regular,/data/selected_images/e883d461-9a06-4ef4-8f31-ed0e4187f05e.png
+04d1fd95-e5be-4c07-acde-e3510cf95b7d.png,Glistening pond reflects surreal visions and feasting flamingos,12,1,regular,/data/selected_images/04d1fd95-e5be-4c07-acde-e3510cf95b7d.png
+65b6e799-a960-4de1-a1ad-213261464786.png,Dreamlike fair with neon treats and dancing lemurs,12,2,regular,/data/selected_images/65b6e799-a960-4de1-a1ad-213261464786.png
+88553307-94a1-4692-9fb6-e0a81ee236a2.png,Abstract garden with digital waterfalls and grazing zebras,10,3,regular,/data/selected_images/88553307-94a1-4692-9fb6-e0a81ee236a2.png
+65f00996-7a7f-47fe-9878-5967d023c74b.png,Mystery market with surreal foods and vibrant peacocks,10,4,regular,/data/selected_images/65f00996-7a7f-47fe-9878-5967d023c74b.png
+0ea058d0-5576-4f9b-ada5-7d9b0dcdbad6.png,Serene lake reflecting neon lights and grazing bison,9,4,regular,/data/selected_images/0ea058d0-5576-4f9b-ada5-7d9b0dcdbad6.png
+225abfa5-45d3-4688-b150-ea4fed730c54.png,Luminous castle holds secret recipes and dancing foxes,9,5,regular,/data/selected_images/225abfa5-45d3-4688-b150-ea4fed730c54.png
+ea6cc76c-1e85-4fcc-9aa3-aeed01e74c30.png,Futuristic diner where abstract paintings meet playful pythons,9,6,regular,/data/selected_images/ea6cc76c-1e85-4fcc-9aa3-aeed01e74c30.png
+3fec7ffb-c51f-440b-99d7-ab1599e65003.png,Starry night over Venice with floating food lanterns,9,7,regular,/data/selected_images/3fec7ffb-c51f-440b-99d7-ab1599e65003.png
+4708eeef-ec33-4a64-96b2-bba88a865164.png,Festival scene with abstract art and lion dancers,9,8,regular,/data/selected_images/4708eeef-ec33-4a64-96b2-bba88a865164.png
+26da54ee-76e6-4914-b308-373e78a9815d.png,Expressive mural of abstract rhythms and soaring falcons,12,3,regular,/data/selected_images/26da54ee-76e6-4914-b308-373e78a9815d.png
+9a28c609-f091-4a4f-8362-dd5a68796078.png,Tranquil river bordered by orchards and abstract sculptures,9,9,regular,/data/selected_images/9a28c609-f091-4a4f-8362-dd5a68796078.png
+5c2bd911-ef73-48de-a231-53d56582a5fb.png,Mystical park where abstract fountains and street food collide,12,4,regular,/data/selected_images/5c2bd911-ef73-48de-a231-53d56582a5fb.png
+dd456e76-0b40-428b-b256-343b709a5c98.png,Dynamic parade featuring gourmet treats and shimmering abstract sculptures,11,2,regular,/data/selected_images/dd456e76-0b40-428b-b256-343b709a5c98.png
+3ce9a819-f3b2-4fa7-bc25-0b90a0dbda57.png,Enigmatic alley with vibrant street art and floating pizzas,11,3,regular,/data/selected_images/3ce9a819-f3b2-4fa7-bc25-0b90a0dbda57.png
+7f60f75a-7949-404a-9fd4-b62befbd9948.png,Whimsical oasis where abstract waves and roaming cows unite,11,4,regular,/data/selected_images/7f60f75a-7949-404a-9fd4-b62befbd9948.png
+86014201-bbd7-48fd-b054-29695ad86ce2.png,Lavish palace adorned with edible art and spirited panthers,11,5,regular,/data/selected_images/86014201-bbd7-48fd-b054-29695ad86ce2.png
+776bb32c-0cf2-46e3-bcc6-712a8324e1be.png,Whispering forest glows with edible treats and roaming rabbits,12,5,regular,/data/selected_images/776bb32c-0cf2-46e3-bcc6-712a8324e1be.png
+ba1dfbce-d4de-435b-8065-cf0e81b594b9.png,Surreal concert with wild animals and magical food displays,11,6,regular,/data/selected_images/ba1dfbce-d4de-435b-8065-cf0e81b594b9.png
+b966529a-5108-41e0-9e03-40a145c96398.png,Extravagant market buzzes with abstract visions and curious llamas,11,7,regular,/data/selected_images/b966529a-5108-41e0-9e03-40a145c96398.png
+e498f5e4-67c4-4d17-b8ce-67d020c5dbc1.png,Modern art gallery mixing bold flavors and strutting peacocks,10,5,regular,/data/selected_images/e498f5e4-67c4-4d17-b8ce-67d020c5dbc1.png
+3b2c8eb3-7c8d-456c-92fc-048414a7fe5f.png,"Intricate labyrinth of sculptures, eclectic food, and prowling wolves",10,6,regular,/data/selected_images/3b2c8eb3-7c8d-456c-92fc-048414a7fe5f.png
+1165559a-e253-4c98-af74-f55bceb60b2e.png,Breezy coastal scene with seagulls and abstract marzipan art,10,7,regular,/data/selected_images/1165559a-e253-4c98-af74-f55bceb60b2e.png
+aa08ac1e-28be-49e1-92eb-6326da9da4ec.png,"Vibrant carnival with exotic birds, surreal desserts, and fireworks",10,8,regular,/data/selected_images/aa08ac1e-28be-49e1-92eb-6326da9da4ec.png
+3db8cb09-e009-4a57-899b-87153d3dbeae.png,Cosmic food fair featuring intergalactic pizzas and bold tigers,10,9,regular,/data/selected_images/3db8cb09-e009-4a57-899b-87153d3dbeae.png
+496bb866-f3f1-4b87-a038-c1a345c18029.png,Elegant restaurant exterior with roaming cats and floating spices,10,10,daily,/data/selected_images/496bb866-f3f1-4b87-a038-c1a345c18029.png
+d05fa1db-7ce6-43d2-aa4a-74bb924d6fdc.png,"Curated exhibition of cosmic murals, exotic fruits, and roaming dogs",11,8,regular,/data/selected_images/d05fa1db-7ce6-43d2-aa4a-74bb924d6fdc.png
+9f0a61f4-cbb5-41ed-a1f0-0a7c34bbb3ca.png,A vibrant fairytale scene with Cinderella exploring a neon-lit city,14,1,regular,/data/selected_images/9f0a61f4-cbb5-41ed-a1f0-0a7c34bbb3ca.png
+62f20b55-3fc7-4b3a-9cee-fa69f7b98a4d.png,Quirky scientists boldly experiment with time-travel inside a retro-futuristic lab,14,2,regular,/data/selected_images/62f20b55-3fc7-4b3a-9cee-fa69f7b98a4d.png
+b0cb2847-42a9-4c85-b0c9-56fa1aa157cb.png,A mystic phoenix rises amid swirling cosmic flames of rebirth,14,3,regular,/data/selected_images/b0cb2847-42a9-4c85-b0c9-56fa1aa157cb.png
+23964235-969b-4c13-8bc9-5fd2004bfff5.png,A charismatic leader delivers an inspiring speech on Liberty Island,14,4,regular,/data/selected_images/23964235-969b-4c13-8bc9-5fd2004bfff5.png
+bd055f50-f095-4b84-a2e1-665023db097b.png,A dreamlike montage of Salvador Dali's iconic surreal artworks colliding,14,5,regular,/data/selected_images/bd055f50-f095-4b84-a2e1-665023db097b.png
+9a3fd629-46e4-4bf1-a269-0474ec939bf6.png,A dynamic portrait of Beyonce with surreal swirling abstract patterns,13,1,regular,/data/selected_images/9a3fd629-46e4-4bf1-a269-0474ec939bf6.png
+2e758a6f-1b25-413b-9932-f3f8a2b835ec.png,A space explorer orbits a vibrant exoplanet with alien ruins,15,1,regular,/data/selected_images/2e758a6f-1b25-413b-9932-f3f8a2b835ec.png
+fc885996-e05d-438c-a758-7d11cdc2f946.png,A magical forest glistens with fairytale creatures and hidden treasures,15,2,regular,/data/selected_images/fc885996-e05d-438c-a758-7d11cdc2f946.png
+e00bede9-34a9-49c9-8d34-8c567d56d713.png,Daring explorers uncover a forgotten city buried beneath desert sands,14,6,regular,/data/selected_images/e00bede9-34a9-49c9-8d34-8c567d56d713.png
+1a35582a-68cb-4ca6-8ab3-4be77a528e1a.png,Futuristic hovercraft races through a tunnel of neon-lit cyberpunk cityscapes,13,2,regular,/data/selected_images/1a35582a-68cb-4ca6-8ab3-4be77a528e1a.png
+5727982b-8d26-4fc5-8005-a167bc4b99e9.png,A dramatic aurora illuminates Iceland's rugged volcanoes and icy fields,14,7,regular,/data/selected_images/5727982b-8d26-4fc5-8005-a167bc4b99e9.png
+bf27b497-1ac5-4ae6-b869-b4a8055b650c.png,A mysterious medieval market at dusk with magical glowing artifacts,12,6,regular,/data/selected_images/bf27b497-1ac5-4ae6-b869-b4a8055b650c.png
+b41233e2-d8b7-4fda-b742-ce74d10d906c.png,"Vivid skyline merging digital art, gourmet desserts, and swift cheetahs",12,7,regular,/data/selected_images/b41233e2-d8b7-4fda-b742-ce74d10d906c.png
+e4215fda-c66c-456f-a630-701cc07ef90c.png,Majestic eagle soaring over a gourmet picnic in Central Park,9,10,daily,/data/selected_images/e4215fda-c66c-456f-a630-701cc07ef90c.png
+28ff524c-37b8-4080-9473-5a66c250e9ed.png,Bubbly market scene with colorful food stands and playful deer,11,9,regular,/data/selected_images/28ff524c-37b8-4080-9473-5a66c250e9ed.png
+bc03e4ad-858d-42b9-b5e5-917e4c33ef37.png,Urban rooftop garden hosting a fusion of abstract art and sushi,11,10,daily,/data/selected_images/bc03e4ad-858d-42b9-b5e5-917e4c33ef37.png
+78a7749b-b58a-4432-92d9-c3b3f366f0c5.png,A whimsical steampunk city emerging from dense enchanted forests during twilight,12,8,regular,/data/selected_images/78a7749b-b58a-4432-92d9-c3b3f366f0c5.png
+9846a4da-adb2-45b3-a5a2-2282e4b7f02a.png,Intricate portrait of a futuristic cyborg blended with elements of nature,12,9,regular,/data/selected_images/9846a4da-adb2-45b3-a5a2-2282e4b7f02a.png
+cc84102f-dc50-4c46-ab78-a8f44ce27a7e.png,"Surreal landscape featuring floating islands, luminous waterfalls, and ancient hidden temples",12,10,daily,/data/selected_images/cc84102f-dc50-4c46-ab78-a8f44ce27a7e.png
+507f3140-7775-4db5-ae7a-fa392a5f748f.png,A spirited road trip along California's Pacific Coast Highway in dusk,14,8,regular,/data/selected_images/507f3140-7775-4db5-ae7a-fa392a5f748f.png
+bcb8d948-d709-4aed-91ba-4ae16aa97c7d.png,Majestic mountains reflect in a crystal lake beneath a starlit sky,13,3,regular,/data/selected_images/bcb8d948-d709-4aed-91ba-4ae16aa97c7d.png
+f68f2020-2a8d-415c-b713-330e85b20191.png,A secretive spy navigates through a labyrinth of high-tech Moscow corridors,14,9,regular,/data/selected_images/f68f2020-2a8d-415c-b713-330e85b20191.png
+f681408c-1651-419d-a026-b82b0d3d18ff.png,An elaborate masquerade ball unfolds in a Venetian palace at midnight,13,4,regular,/data/selected_images/f681408c-1651-419d-a026-b82b0d3d18ff.png
+30fd7834-ebb6-4231-b1ae-bd55d30f064a.png,Cosmic nebula explodes in vivid colors across an interstellar sky canvas,13,5,regular,/data/selected_images/30fd7834-ebb6-4231-b1ae-bd55d30f064a.png
+aab98ea5-2616-4af3-bc55-bf23bebb766e.png,Legendary actor reenacts dramatic scene in a vintage Hollywood film set,13,6,regular,/data/selected_images/aab98ea5-2616-4af3-bc55-bf23bebb766e.png
+85b1c7a8-abd3-41d1-89c1-cd53e73332e0.png,Surreal underwater palace guarded by ancient mermaids in a coral labyrinth,13,7,regular,/data/selected_images/85b1c7a8-abd3-41d1-89c1-cd53e73332e0.png
+046734a3-ff39-4f6b-b158-63df299e57e2.png,A futuristic metropolis thrives under a dome protecting it from chaos,14,10,daily,/data/selected_images/046734a3-ff39-4f6b-b158-63df299e57e2.png
+412efa09-4112-4035-9d95-40ed37ba118f.png,An avant-garde art bazaar where abstract flavors and energetic pandas converge,15,3,regular,/data/selected_images/412efa09-4112-4035-9d95-40ed37ba118f.png
+5adaf2a3-3afa-4580-9519-fbbf6d496791.png,A visionary culinary show where famous chefs compete with abstract animal-inspired recipes,15,4,regular,/data/selected_images/5adaf2a3-3afa-4580-9519-fbbf6d496791.png
+b1259e02-d4ce-4735-97aa-ea859abc7e83.png,"A futuristic opera with surreal food imagery, digitized animals, and abstract soundscapes",15,5,regular,/data/selected_images/b1259e02-d4ce-4735-97aa-ea859abc7e83.png
+c9bb3b30-7fcd-41d2-b2ee-822e77e5c771.png,"An interstellar diner where cosmic animals dine on artfully crafted, abstract delicacies",15,6,regular,/data/selected_images/c9bb3b30-7fcd-41d2-b2ee-822e77e5c771.png
+d874f502-141d-40b6-97e2-2d84621bc22f.png,An opulent fountain of flavors where renowned chefs serve abstract animal-inspired dishes,16,1,regular,/data/selected_images/d874f502-141d-40b6-97e2-2d84621bc22f.png
+07092c82-a41e-4153-86f4-845f6f41756d.png,A lively street carnival unfolds with vibrant colors and rhythmic samba beats,13,8,regular,/data/selected_images/07092c82-a41e-4153-86f4-845f6f41756d.png
+545ae927-1575-4334-948d-6eb6e5e49234.png,Ancient gods battle in a mythic arena under a stormy twilight sky,13,9,regular,/data/selected_images/545ae927-1575-4334-948d-6eb6e5e49234.png
+43efae4b-041b-4251-b00e-cd4266a3dc05.png,"Haunting abandoned mansion surrounded by wild flora, eerie lights and secret passages",13,10,daily,/data/selected_images/43efae4b-041b-4251-b00e-cd4266a3dc05.png
+55bc06da-986e-46c0-9639-b58f5b26dec7.png,"A celestial feast featuring flamboyant fruit displays, soaring falcons, and ethereal hues",15,7,regular,/data/selected_images/55bc06da-986e-46c0-9639-b58f5b26dec7.png
+a7c4839a-5ea2-4798-939d-90ce339c95c4.png,"A neon-lit gala featuring abstract dessert art, swirling soundscapes, and bold street tigers",16,2,regular,/data/selected_images/a7c4839a-5ea2-4798-939d-90ce339c95c4.png
+88c8a5ff-6d04-4456-9fd9-4063d9edff32.png,A cosmic stage where abstract culinary experiments and high-tech wildlife performances mesmerize crowds,16,3,regular,/data/selected_images/88c8a5ff-6d04-4456-9fd9-4063d9edff32.png
+88f2cc4b-2c20-4794-83af-f9cdfa5ac028.png,A futuristic symposium of art and gastronomy with abstract beasts and digital souffles,16,4,regular,/data/selected_images/88f2cc4b-2c20-4794-83af-f9cdfa5ac028.png
+a04e4ea4-1efe-49f6-b2b0-93e1cb657ffb.png,A dynamic bazaar in Marrakech with abstract spice patterns and agile desert foxes,16,5,regular,/data/selected_images/a04e4ea4-1efe-49f6-b2b0-93e1cb657ffb.png
+1a328bf4-5db7-4524-81af-cd22499e8a97.png,A lavish dinner at a digital palace with abstract whales and spicy noodles,15,8,regular,/data/selected_images/1a328bf4-5db7-4524-81af-cd22499e8a97.png
+2b40d483-7bca-424d-8ea1-d65f3d77e8c3.png,"A multisensory expo in Tokyo featuring abstract flavors, virtual animals, and gourmet innovations",15,9,regular,/data/selected_images/2b40d483-7bca-424d-8ea1-d65f3d77e8c3.png
+a42f7d67-5bff-48c1-bf88-d837f39190de.png,A high-definition panorama of an urban festival mixing gourmet delights and abstract wildlife,15,10,daily,/data/selected_images/a42f7d67-5bff-48c1-bf88-d837f39190de.png
+09bdadf3-b469-4007-82d0-7a46dee58cae.png,"A surreal confluence of abstract art, gourmet street snacks, and prancing digital peacocks",16,6,regular,/data/selected_images/09bdadf3-b469-4007-82d0-7a46dee58cae.png
+ededf7d5-72a4-451f-a23e-02602d56225e.png,An immersive digital celebration where abstract visuals merge with sizzling stir-fry and wild rhinos,16,7,regular,/data/selected_images/ededf7d5-72a4-451f-a23e-02602d56225e.png
+20d81791-f86d-4c13-8793-1ef9ffb217dc.png,A futuristic runway where digital models exhibit abstract food designs and exotic animal motifs,16,8,regular,/data/selected_images/20d81791-f86d-4c13-8793-1ef9ffb217dc.png
+b7d16b40-1d14-4a95-9a32-dd77085e156d.png,"A magical tableau at the Louvre showcasing abstract sculptures, culinary wonders, and surreal lemurs",16,9,regular,/data/selected_images/b7d16b40-1d14-4a95-9a32-dd77085e156d.png
+ee3e8ea5-0eca-42fd-986f-0d019ba4b748.png,"A magical fusion of abstract digital art, sizzling street food, and whimsical jungle creatures",16,10,daily,/data/selected_images/ee3e8ea5-0eca-42fd-986f-0d019ba4b748.png
+4aea0e04-c74f-451c-a063-4a5bd2bcf55e.png,"A grand outdoor fest in Central Park with abstract lighting, gourmet burgers, and virtual lions",17,1,regular,/data/selected_images/4aea0e04-c74f-451c-a063-4a5bd2bcf55e.png
+764619aa-8518-4470-9230-ccf38a0e48c6.png,"An extraordinary spectacle of abstract visions, culinary marvels, and animated wildlife in a digital realm",17,2,daily,/data/selected_images/764619aa-8518-4470-9230-ccf38a0e48c6.png

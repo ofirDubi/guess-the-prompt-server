@@ -7,8 +7,9 @@ progress_bp = Blueprint('progress', __name__)
 
 @progress_bp.route('/levels', methods=['GET'])
 def get_progress_levels():
+    print("[+] get_progress_levels!!")
     user_token = request.headers.get('Authorization', '').split(' ')[-1]
-    if user_token == 'guest':
+    if user_token == 'guest' or user_token == '':
         return jsonify([{
             "level": 1,
             "completed": 0,
