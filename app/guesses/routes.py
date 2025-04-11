@@ -70,7 +70,7 @@ def calculate_similarity(prompt, guess):
         score += m[1] * 100
     return exact_matched, similar_matched, accuracy, score
     
-
+ACCURACY_THRESHOLD = 80
 @guesses_bp.route('', methods=['POST'])
 def submit_guess():
     data = request.get_json()
@@ -102,9 +102,9 @@ def submit_guess():
             # update the user progress levels
             level_info['guesses'] += 1
             print("[INFO] level info - ", level_info)
-            if accuracy >= 80:
+            if accuracy >= ACCURACY_THRESHOLD:
                 if level_info:
-                    print("[INFO] accuracy is greater than 80, updating level info")
+                    print(f"[INFO] accuracy is greater than {ACCURACY_THRESHOLD}, updating level info")
                     level_info['completed'] += 1
                     if level_info['completed'] >= level_info['total']:
                         new_level = level + 1
@@ -137,5 +137,5 @@ def submit_guess():
         "score": score,
         "exactMatches": exact_matched,
         "similarMatches": similar_matched,
-        "success": accuracy >= 80
+        "success": accuracy >= ACCURACY_THRESHOLD
     })
